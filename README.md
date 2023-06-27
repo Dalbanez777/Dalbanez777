@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Dalbanez777
-- 👀 I’m interested in Cloud engineering, Python, all IT related...tech geek i guess...
-- 🌱 I’m currently learning Jenkins, IT testing engineering and AWS
-- 💞️ I’m looking to collaborate on EVERYTHING i can
+- 👀 I’m interested in Automation, RPA, Testing, Cloud engineering
+- 🌱 I’m currently learning Jenkins, AWS, Cypress
+- 💞️ I’m looking to collaborate on EVERYTHING I can
 - 📫 How to reach me daniel7albanez@gmail.com
 
 <!---
